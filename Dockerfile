@@ -1,5 +1,5 @@
 FROM openjdk:8-jdk-slim
-ENV PORT 8080
+ENV PORT 8081
 ENV CLASSPATH /opt/lib
 EXPOSE 8080
 
